@@ -1,6 +1,5 @@
-DJ_SECRET_KEY=xd2irdy7b#$8mj1u4rb!&!$bwm90lp^^7xl@89o2j4=b_*3k&4
-DJ_DEBUG=False
-
+DJ_SECRET_KEY='-@$&&ry%8ub@v9qq60uv*iww2$ssvjq4^hv8@00@q3^pb0g3qs'
+DJ_DEBUG=True
 DJ_DB_NAME=
 DJ_DB_USER=
 DJ_DB_PASSWORD=
