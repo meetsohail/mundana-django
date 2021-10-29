@@ -1,0 +1,8 @@
+DJ_SECRET_KEY=xd2irdy7b#$8mj1u4rb!&!$bwm90lp^^7xl@89o2j4=b_*3k&4
+DJ_DEBUG=False
+
+DJ_DB_NAME=
+DJ_DB_USER=
+DJ_DB_PASSWORD=
+DJ_DB_HOST=
+DJ_DB_PORT=
